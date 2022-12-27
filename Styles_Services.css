@@ -1,0 +1,98 @@
+#Top_Banner {
+    color: white;
+    border: rgb(32, 32, 27);
+    background-color: black;
+    position: relative;
+    max-width: 100%;
+    justify-items: left;
+}
+
+#TruckPro_Logo
+{
+    position: right;
+    max-width: 10%;
+    max-height: 50%;
+    min-width: none;
+    min-height: fit-content
+}
+
+#Dabs_Logo {
+    position: relative;
+    align-self: baseline; 
+    max-width: 100%; 
+    min-width: 40%; 
+}
+
+.Nav_Bar {
+    align-items: center;
+    justify-items: flex-start;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li {
+    display: list-item;
+    padding: 20px;
+    color: white;
+    
+}
+li {
+text-align: none;
+color: white;
+font-style: oblique;
+display: block;
+
+}
+
+
+body {
+    background-repeat:no-repeat;
+    color: rgb(255, 255, 255);
+    justify-self: center;
+    background-attachment: fixed;
+    background-color: rgb(36, 89, 136);
+    
+}
+
+#Home_Content {
+    text-align: center ;
+    padding: 20px;
+    max-width: 80%;
+    max-height: 80%;
+    font-display: center;
+    flex-wrap: wrap;
+    position: center;
+    
+
+}
+
+footer{
+    position: bottom; }
+
+    
+    #Nav_Bar_List_Services {
+        color: white;
+        display: inline;
+        
+    }
+    
+    
+#Nav_Bar_List {
+    color: white;
+    display: inline;
+    
+}
+
+a {
+    color: white;
+    font-size: larger;
+}
+
+.banner {
+  
+    text-align-last: inline;
+}
+
+.navbar navbar-light {
+    display: inline;
+}
+

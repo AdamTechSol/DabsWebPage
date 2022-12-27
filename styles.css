@@ -1,0 +1,160 @@
+#Top_Banner {
+    color: white;
+    border: rgb(32, 32, 27);
+    background-color: black;
+    position: relative;
+    max-width: 100%;
+    justify-items: left;
+}
+
+#TruckPro_Logo
+{
+    position: right;
+    max-width: 10%;
+    max-height: 50%;
+    min-width: none;
+    min-height: fit-content
+}
+
+#Dabs_Logo {
+    position: relative;
+    align-self: baseline; 
+    max-width: 100%; 
+    min-width: 40%; 
+}
+
+.Nav_Bar {
+    align-items: center;
+    justify-items: flex-start;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li {
+    display: inline;
+    padding: 20px;
+    color: white;
+    word-spacing: 1px;
+    
+}
+li {
+text-align-last: justify;
+color: white;
+font-style: oblique;
+
+}
+
+
+body {
+    background-repeat:no-repeat;
+    color: rgb(255, 255, 255);
+    justify-self: center;
+    background-attachment: fixed;
+    background-color: rgb(36, 89, 136);
+    
+}
+
+#Home_Content {
+    text-align: left ;
+    padding: 20px;
+    max-width: 80%;
+    font-display: center;
+    flex-wrap: wrap;
+    position: center;
+    
+
+}
+
+footer{
+    position: bottom; }
+
+    
+    #Nav_Bar_List_Services {
+        color: white;
+        display: table-row;
+        padding: 10px;
+        max-width: fit-content;
+
+   
+        
+    }
+    
+    
+#Nav_Bar_List {
+    color: white;
+    display: inline;
+    
+}
+
+a {
+    color: white;
+    font-size: larger;
+}
+
+.banner {
+  
+    text-align-last: inline;
+}
+
+.navbar navbar-light {
+    display: inline;
+}
+
+#Service_List {
+    color: white;
+    display: list-item;
+    max-width: fit-content;
+    min-width: none;
+    padding: none;
+    order: inherit;
+    align-items: center;
+
+}
+ol {
+    display: none;
+    word-spacing: 1px;
+    font-size: larger;
+    padding-left: none;
+    padding-right: none;
+    padding-top: none;
+    padding-bottom: none;
+    line-height: normal;
+    padding: none;
+    border-spacing: 1px;
+    border: none;
+    box-sizing: border-box;
+    text-align: left;
+
+}
+.Services {
+   display: list-item;
+   color: white;
+   max-width: 80%;
+   min-width: none;
+   padding: none;
+   word-wrap: normal;
+   word-spacing: 0%;
+   align-items: baseline;
+
+
+
+
+}   
+
+aside {
+    float: center;
+    position: center;
+    max-width: 50%;
+    text-align: left;
+    flex: auto;
+    display: inline;
+    padding: 0px;
+    margin: 0rem 0rem;
+}
+
+#Can_Spray_Logo {
+
+    size: 80px 80px;
+}
+.Can_Spray {
+    size: 80px 80px;
+}
